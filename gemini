@@ -1,0 +1,13 @@
+{
+	"device": "gemini",
+	"updates": [{
+			"channel": null,
+			"name": "aoscp_gemini-3.1.1-20161122-unofficial.zip",
+			"version": "3.1.1",
+			"build": "20161122",
+			"size": "495622484",
+			"url": "https://de1.androidfilehost.com/dl/6JDRcbZ6SDGDUs96SwsxUQ/1480218322/457095661767117849/aoscp_gemini-3.1.1-20161122-unofficial.zip",
+			"md5": "7f2cb5bec0a43029c0d6e42e33c96fc0"
+		}
+	]
+}
