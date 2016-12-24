@@ -40,6 +40,14 @@
 			"size": "552191641",
 			"url": "https://de1.androidfilehost.com/dl/3HPgrafrbdQQYSYS9u1O-g/1482640986/673368273298918167/aoscp_gemini-3.5-20161222-unofficial.zip",
 			"md5": "e6ff975b3507963d6476313191c7f6c0"
+		},{
+			"channel": null,
+			"name": "aoscp_gemini-3.5-20161224-unofficial.zip",
+			"version": "3.5",
+			"build": "20161224",
+			"size": "532904276",
+			"url": "https://de1.androidfilehost.com/dl/iTCBywHDMcg3PCSVSFH5PQ/1482811695/457095661767124770/aoscp_gemini-3.5-20161224-unofficial.zip",
+			"md5": "b4b1954925ac42e653d014b375d7af68"
 		}
 	]
 }
